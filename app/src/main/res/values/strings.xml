@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testFrag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnAddItem">Add Item</string>
+    <string name="EnterNewItem">Enter new item...</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnDelete">Delete</string>
+
+</resources>
